@@ -53,7 +53,7 @@
 
 - **[Project 1: Neon UI Framework](#)**  
   A futuristic UI framework inspired by neon aesthetics.  
-  🔗 [View Project](https://github.com/NeonXByte/Neon-UI)
+  🔗 [View Project](https://github.com/NeonXByte/Neon-UI-Framework)
 
 - **[Project 2: ByteDash Dashboard](#)**  
   A dynamic, neon-themed dashboard for real-time analytics.  
