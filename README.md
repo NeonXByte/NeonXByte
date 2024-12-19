@@ -57,7 +57,7 @@
 
 - **[Project 2: ByteDash Dashboard](#)**  
   A dynamic, neon-themed dashboard for real-time analytics.  
-  🔗 [View Project](https://github.com/NeonXByte/ByteDash)
+  🔗 [View Project](https://github.com/NeonXByte/ByteDash-Dashboard)
 
 ---
 
